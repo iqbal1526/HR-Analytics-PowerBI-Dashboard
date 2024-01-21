@@ -1,12 +1,12 @@
 # HR Analytics PowerBI Dashboard
 <b>video demonstration</b><br>
 ![](https://github.com/iqbal1526/HR-Analytics-PowerBI-Dashboard/blob/main/Screenshots%20and%20gif/HR%20rec.gif)
-<br>
+<br><br>
 <b>Home Page:</b><br>
 <img src="/Screenshots and gif/Screen 1.png" alt="Image Description" width="600" height="400">
-<br><b>Employee Details page:</b><br>
+<br><br><b>Employee Details page:</b><br>
 <img src="/Screenshots and gif/Screen 2.png" alt="Image Description" width="600" height="400">
-<br><b>Performance page:</b><br>
+<br><br><b>Performance page:</b><br>
 <img src="/Screenshots and gif/Screen 3.png" alt="Image Description" width="600" height="400">
 
 ## Introduction
