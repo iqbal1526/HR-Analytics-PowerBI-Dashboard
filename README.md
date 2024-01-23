@@ -20,17 +20,17 @@ This Power BI dashboard aims to provide comprehensive insights into Human Resour
 
 - **Gender Distribution KPI**: Offers a breakdown of the total employees by gender, indicating the diversity in gender representation within the company.
 
-- **Active vs. Terminated Employees KPI**: Displays the number of currently active employees compared to those who have been terminated.
+- **Active vs. Terminated Employees KPI**: Displays the number of currently active employees compared to those terminated.
 
 - **Recruitment Costs KPI**: Summarizes the total expenses incurred in the recruitment process.
 
-- **Department Distribution Chart**: llustrates the number of employees across different departments.
+- **Department Distribution Chart**: illustrates the number of employees across different departments.
 
-- **Reasons for Termination Chart**: Details the various reasons why employees have left the company, which can inform retention strategies.
+- **Reasons for Termination Chart**: Details the various reasons employees have left the company, which can inform retention strategies.
 
 - **Employee Engagement and Satisfaction Gauges**: Provide visual representations of overall employee satisfaction and engagement levels, which are critical for assessing the workforce's morale and productivity.
 
-- **Performance Rating Distribution Chart**: Shows the spread of employee performance ratings, offering a snapshot of how employees are meeting or exceeding expectations.
+- **Performance Rating Distribution Chart**: Shows the spread of employee performance ratings, offering a snapshot of how employees meet or exceed expectations.
 
 - **Attrition Rates for Unhappiness and Performance**: Quantifies how many employees have left due to dissatisfaction or performance issues.
 
@@ -42,4 +42,4 @@ To access and interact with this Power BI dashboard, you need:
 
 2. Download the report file from this repository and open it on the PowerBI desktop.
 
-Feel free to explore the charts, filter data based on your requirements, and gain valuable insights into this Dashboard.
+Feel free to explore the charts, filter data based on your requirements, and gain valuable insights from this Dashboard.
