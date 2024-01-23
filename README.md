@@ -11,30 +11,28 @@
 
 ## Introduction
 
-This Power BI dashboard aims to provide comprehensive insights into customer complaints. It contains various visualizations that allow users to understand key metrics related to complaints, identify trends, and gain a deeper understanding of complaint types, products, channels, priorities, and customer satisfaction. The dashboard provides a holistic view of customer feedback, helping businesses make informed decisions to improve customer satisfaction.<br>
-<b> The dataset is obtained from Kaggle: https://shorturl.at/lAN57 </b>
+This Power BI dashboard aims to provide comprehensive insights into Human Resource Data. It contains various visualizations that allow users to understand key metrics related to Company information, Resource consumption, employee details, and performance of employees.<br>
+<b> The dataset is obtained from this article: [https://shorturl.at/lAN57](https://shorturl.at/blOX6) </b>
 
 ## Project Insights
 
-- **Total Complaint KPI**: This key performance indicator (KPI) provides a snapshot of the total number of customer complaints.
+- **Total Employees KPI**: This key performance indicator shows the total number of employees in the company, providing a quick view of the workforce size.
 
-- **Closed Complaints KPI**: This KPI indicates the number of complaints that have been successfully resolved or closed.
+- **Gender Distribution KPI**: Offers a breakdown of the total employees by gender, indicating the diversity in gender representation within the company.
 
-- **Complaint Types Button**: Allows users to interact with the dashboard by filtering data based on different complaint types.
+- **Active vs. Terminated Employees KPI**: Displays the number of currently active employees compared to those who have been terminated.
 
-- **Top 5 Products Complaints (Clustered Bar Chart)**: This chart visually displays the top 5 products that have received the most complaints.
+- **Recruitment Costs KPI**: Summarizes the total expenses incurred in the recruitment process.
 
-- **Complaints by Type (Clustered Bar Chart)**: This chart breaks down complaints by their type.
+- **Department Distribution Chart**: llustrates the number of employees across different departments.
 
-- **Complaints by Channel (Clustered Bar Chart)**: This chart shows the distribution of complaints across different channels.
+- **Reasons for Termination Chart**: Details the various reasons why employees have left the company, which can inform retention strategies.
 
-- **Complaints by Priority (Donut Chart)**: The donut chart presents complaints categorized by their priority levels.
+- **Employee Engagement and Satisfaction Gauges**: Provide visual representations of overall employee satisfaction and engagement levels, which are critical for assessing the workforce's morale and productivity.
 
-- **Complaint Trends (Area Chart)**: This area chart tracks the trends of complaints for products purchased in 2020 and 2021.
+- **Performance Rating Distribution Chart**: Shows the spread of employee performance ratings, offering a snapshot of how employees are meeting or exceeding expectations.
 
-- **Customer Satisfaction Rating (Gauge Chart)**: The gauge chart provides an overview of customer satisfaction, helping assess overall customer sentiment.
-
-- **Complaints by State (Map)**: The map visualization displays the geographic distribution of complaints by state.
+- **Attrition Rates for Unhappiness and Performance**: Quantifies how many employees have left due to dissatisfaction or performance issues.
 
 ## Installation Requirements
 
@@ -44,4 +42,4 @@ To access and interact with this Power BI dashboard, you need:
 
 2. Download the report file from this repository and open it on the PowerBI desktop.
 
-Feel free to explore the charts, filter data based on your requirements, and gain valuable insights into customer complaints.
+Feel free to explore the charts, filter data based on your requirements, and gain valuable insights into this Dashboard.
